@@ -7,9 +7,9 @@ This repository contains all the codes used to scrape futures trading data, cond
 
 The files are organized by:
 
-factor_selection.py: a module that contains functions of data cleaning, preprocessing, exploratory analysis, feature engineering, training & testing, backtesting, etc.
+*factor_selection.py*: a module that contains functions of data cleaning, preprocessing, exploratory analysis, feature engineering, training & testing, backtesting, etc.
 
-CTA factors evaluation for iron.ipynb: a jupyter notebook file to perform factor selection for iron.
+*CTA factors evaluation for iron.ipynb*: a jupyter notebook file to perform factor selection for iron.
 
 
 
